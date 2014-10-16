@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abm:home|Door43 (abm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abm|d43-abm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abm/archive/master.zip|d43-abm.zip]]
+
+**Recent Changes**
+{{changes>ns = abm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abm|Ethnologue data]]
+
